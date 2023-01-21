@@ -6,3 +6,5 @@ csv2cash/__pycache__
 *personal*
 *rope*
 .history
+migration.py
+split_test.csv
