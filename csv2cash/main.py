@@ -1,3 +1,4 @@
+# pylint: disable=logging-fstring-interpolation, f-string-without-interpolation
 import piecash
 from json import load as jsonload
 from pathlib import Path
